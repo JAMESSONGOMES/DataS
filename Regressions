@@ -1,1 +1,8 @@
+Regressão linear simples em Python
+
+Assume-se a hipótese que as variável x e y seja linearmente relacionadas.
+
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
 
